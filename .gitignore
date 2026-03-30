@@ -1,0 +1,17 @@
+# 環境變數檔案 (包含 API 金鑰)
+.env
+
+# Node.js 依賴
+node_modules/
+
+# 日誌檔案
+*.log
+npm-debug.log*
+
+# 作業系統檔案
+.DS_Store
+Thumbs.db
+
+# 編輯器設定
+.vscode/
+.idea/
